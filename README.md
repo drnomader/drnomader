@@ -8,9 +8,14 @@
   <img src="https://img.shields.io/badge/Linux-20232a.svg?style=for-the-badge&logo=linux" />&nbsp
   <img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript" />&nbsp
+</div>
+
+<h3 align="center">Skills</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Git-20232a.svg?style=for-the-badge&logo=git" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-20232a.svg?style=for-the-badge&logo=github" />&nbsp
   <img src="https://img.shields.io/badge/Slack-20232a.svg?style=for-the-badge&logo=slack" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-20232a.svg?style=for-the-badge&logo=visual-studio-code" />&nbsp
 </div>
 
 <h3 align="center">Stats</h3>
