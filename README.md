@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Dr.Nomader's&fontAlignY=38&fontSize=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Dr.Nomader's&fontAlignY=35&fontSize=65&animation=fadeIn" />
 </div>
 
 <h3 align="center">📌Skills</h3>
