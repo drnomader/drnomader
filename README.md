@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Dr.Nomader's&fontAlignY=38&fontSize=75&animation=fadeIn" />
+</div>
+
 <h3 align="center">📌Skills</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=OpenJDK" />&nbsp
@@ -21,7 +25,7 @@
 
 <h3 align="center">📌Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drnomader&show_icons=true&theme=one_dark_pro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drnomader&show_icons=true&theme=buefy" />
 </div>
 
 <h3 align="center">📌Programmers</h3>
