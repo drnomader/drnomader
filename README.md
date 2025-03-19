@@ -8,10 +8,11 @@
   <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-20232a.svg?style=for-the-badge&logo=spring-boot" />&nbsp<br />
   <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql" />&nbsp
-  <img src="https://img.shields.io/badge/Oracle-20232a.svg?style=for-the-badge&logo=oracle" />&nbsp<br />
+  <img src="https://img.shields.io/badge/Oracle-20232a.svg?style=for-the-badge&logo=oracle" />&nbsp
+  <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka">&nbsp<br />
   <img src="https://img.shields.io/badge/Linux-20232a.svg?style=for-the-badge&logo=linux" />&nbsp
   <img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker" />&nbsp
-  <img src="https://img.shields.io/badge/Redis-20232a.svg?style=for-the-badge&logo=redis" />&nbsp<br />
+  <img src="https://img.shields.io/badge/Kubernetes-20232a.svg?style=for-the-badge&logo=kubernetes" />&nbsp<br />
   <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=html5" />&nbsp
 </div>
