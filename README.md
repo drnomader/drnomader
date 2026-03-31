@@ -37,11 +37,6 @@
   <img src="https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=Notion" />&nbsp
 </div>
 
-<h3 align="center">📌Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drnomader&show_icons=true&theme=buefy" />
-</div>
-
 <h3 align="center">📌Programmers</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/drnomader/Programmers_Badge_Generator/main/result/result.svg" />
